@@ -6,7 +6,7 @@ The complete set of ReCallpeaks call peaks in our LcANT1 DAPseq data
 ### ReCallpeaks packsge
 https://github.com/FanXuRong/ReCallPeaks
 # Cite
-if you use the result or use ReCallpeaks package in your stydy
+if you use the result or use ReCallpeaks package in your study
 
 please cite
 
